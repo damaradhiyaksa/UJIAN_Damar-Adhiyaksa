@@ -1,0 +1,52 @@
+# Program Pemesanan Taxi Online
+
+Program Pemesanan Taxi Online adalah sebuah projek yang ditujukan untuk memudahkan pengguna taxi dalam pemesanan. 
+
+## Features
+- Menghitung Jumlah Tarif
+- Menginput data pelanggan
+
+
+## Tech
+Program Pemesanan Taxi online di bangun dengan berikut :
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - most basic building block of the Web. It defines the meaning and structure of web content.
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). 
+* [PHP](https://www.php.net/) - popular general-purpose scripting language that is especially suited to web development.
+* [VISUAL STUDIO CODE](https://code.visualstudio.com/) - code editor redefined and optimized for building and debugging modern web and cloud applications.
+* [XAMPP](https://www.apachefriends.org/download.html) - an easy to install Apache distribution containing MariaDB, PHP, and Perl. Just download and start the installer
+* [GOOGLE CHROME](https://www.google.com/intl/id_id/chrome/) - The browser built by google
+
+## Requirement
+
+* XAMPP 7.4.9 or later
+* PHP 7.2 or later
+
+## Structure
+
+```
+ProgramNasiKotak
+📦CSS
+ ┗ 📜boostrap.css
+📦data
+ ┗ 📜data.json
+📦gambar
+ ┗ 📜logo.jpg
+ index.php
+ README.md
+```
+
+## Installation
+
+Pindahkan semua file ke dalam folder
+
+    C:\xampp\htdocs\[your folder]
+    
+Start Apache pada XAMPP control panel
+
+Akses pada browser
+    
+    localhost/[your folder]
+    
+## Credits
+
+* [Tasya Safitri](https://www.instagram.com/tasyasftrri/)
